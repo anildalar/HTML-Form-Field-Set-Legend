@@ -1,0 +1,8 @@
+FORM DATA SUBMIT
+
+Query String
+
+URL
+?name=value&name=value&name=value&......
+
+?fname=anil&lname=dollor&dob=12-12-2012
